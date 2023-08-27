@@ -1,3 +1,2 @@
 # Tag-game
-(in progress)
-A two person game of tag
+A two person game of tag built to run on the L2D game engine
